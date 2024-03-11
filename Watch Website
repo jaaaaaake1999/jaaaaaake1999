@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Watch Builder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Custom Watch Builder</h1>
+        <!-- Navigation links can be added here -->
+    </header>
+
+    <main>
+        <section id="watch-customization">
+            <h2>Watch Customization</h2>
+            <!-- Watch customization options will go here -->
+        </section>
+
+        <section id="preview">
+            <h2>Preview</h2>
+            <!-- Preview of the customized watch will go here -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Footer content can be added here -->
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
